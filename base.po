@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-28 00:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: www/site/cgi-bin/index.py:6 www/site/cgi-bin/info.py:13
+#: www/site/cgi-bin/surah.py:18
+msgid "Index"
+msgstr "الفهرس"
+
+#: www/site/cgi-bin/handle.py:17
+msgid "No"
+msgstr "الرقم"
+
+#: www/site/cgi-bin/handle.py:17
+msgid "Surah"
+msgstr "السورة"
+
+msgid "surah"
+msgstr "سورة"
+#: www/site/cgi-bin/handle.py:17
+msgid "Origin"
+msgstr "مكان النزول"
+
+#: www/site/cgi-bin/handle.py:40
+msgid "Previous"
+msgstr "السابقة"
+
+#: www/site/cgi-bin/handle.py:40
+msgid "Current"
+msgstr "الحالية"
+
+#: www/site/cgi-bin/handle.py:40
+msgid "Next"
+msgstr "التالية"
+
+#: www/site/cgi-bin/info.py:5 www/site/cgi-bin/views.py:8
+msgid "About"
+msgstr "حول"
+
+#: www/site/cgi-bin/info.py:10
+msgid "Source code of site"
+msgstr "شفرة  الموقع المصدرية"
+
+#: www/site/cgi-bin/info.py:11
+msgid "Holy Quran in JSON format"
+msgstr "القرآن الكريم بتنسيق JSON"
+
+#: www/site/cgi-bin/info.py:12
+msgid "Contact us"
+msgstr "تواصل بنا"
+
+#: www/site/cgi-bin/views.py:5 www/site/cgi-bin/views.py:6
+#: www/site/cgi-bin/views.py:7
+msgid "The Holy Quran"
+msgstr "ٱلۡقُرۡآنُ ٱلۡكَرِيمُ"
+
+msgid "Error!"
+msgstr "خظأ!"
+
+msgid "Mus'haf"
+msgstr "المصحف"
+
+msgid "Index of Mus'haf"
+msgstr "فهرس المصحف"
+
+msgid "E-mus'haf"
+msgstr "المصحف إلكتروني"
+
+msgid "Number of ayat"
+msgstr "عدد الآيات"
+
+msgid "Bism allah alrahman alrahim"
+msgstr "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ"
+
+msgid "Home page"
+msgstr "الصفحة الرئيسية"
+
+
+
+
+ 

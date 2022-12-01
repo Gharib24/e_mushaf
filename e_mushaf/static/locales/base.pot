@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-01 22:08+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: e-mushaf/cgi-bin/e-mushaf.py:40 e-mushaf/cgi-bin/e-mushaf.py:79
+msgid "Index"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:40
+msgid "About"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:45 e-mushaf/cgi-bin/e-mushaf.py:46
+msgid "E-mus'haf"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:70
+msgid "No"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:70
+msgid "Surah"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:70
+msgid "Origin"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:70
+msgid "Number of ayat"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:96
+msgid "Previous"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:96
+msgid "Current"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:96
+msgid "Next"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:101
+msgid "Bism allah alrahman alrahim"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:104
+msgid "Mus'haf"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:104
+msgid "surah"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:109
+msgid "Source code of site"
+msgstr ""
+
+#: e-mushaf/cgi-bin/e-mushaf.py:110
+msgid "Holy Quran in JSON format"
+msgstr ""
